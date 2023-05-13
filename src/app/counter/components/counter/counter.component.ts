@@ -23,5 +23,4 @@ export class CounterComponent  {
   resetCounter():void{
     this.counter=10
   }
-
 }
